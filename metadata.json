@@ -1,0 +1,6 @@
+{
+  "name": "JT BLOOM BAR - Artisan Flower Bouquets & Same-Day Floral Studio",
+  "description": "Boutique floral atelier offering hand-tied artisanal bouquets, real-time availability, custom stem studio, same-day delivery tracking, loyalty perks, and AI floral styling concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
